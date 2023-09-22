@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "eink-pager",
+	"name": "E-ink Pager",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"minAppVersion": "1.14.0",
+	"description": "Flip through your notes a page at a time.",
+	"author": "sloanelybutsurely",
+	"authorUrl": "https://sloane.sh/",
+	"fundingUrl": "https://github.com/sloanelybutsurely",
 	"isDesktopOnly": false
 }
