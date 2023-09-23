@@ -1,6 +1,6 @@
 {
 	"name": "eink-pager",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Flip through your notes a page at a time",
 	"main": "main.js",
 	"scripts": {
