@@ -1,0 +1,11 @@
+{
+	"id": "eink-pager",
+	"name": "E-ink Pager",
+	"version": "1.0.0",
+	"minAppVersion": "1.14.0",
+	"description": "Flip through your notes a page at a time.",
+	"author": "sloanelybutsurely",
+	"authorUrl": "https://sloane.sh/",
+	"fundingUrl": "https://github.com/sloanelybutsurely",
+	"isDesktopOnly": false
+}
